@@ -91,7 +91,7 @@ public class SearchActionWrapper {
     //  UI
     //=================================================================
     public JPanel panel;
-    public ComboBox<SearchActionType> cmbActionTypes;
+    public ComboBox cmbActionTypes;
     public EditorTextField tfName;
     public JBCheckBox cbDeepLimit;
     public IntSpinner spnDeepLimit;
